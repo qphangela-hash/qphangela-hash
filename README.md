@@ -1,4 +1,4 @@
-# Hi, I'm Qaqamba Phangela👋
+# Hi, I'm Qaqamba 👋
 
 I am a Durban-based professional transitioning from Customer Service into Cybersecurity, backed by hands-on training from the Zaio Bootcamp. I combine an investigative mindset with a proven ability to handle high-pressure environments and shift work.
 
