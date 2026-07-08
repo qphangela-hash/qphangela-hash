@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Qaqamba Phangela👋
 
-<!--
-**qphangela-hash/qphangela-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Durban-based professional transitioning from Customer Service into Cybersecurity, backed by hands-on training from the Zaio Bootcamp. I combine an investigative mindset with a proven ability to handle high-pressure environments and shift work.
 
-Here are some ideas to get you started:
+### 🛡️ Core Skills & Focus Areas
+- **SOC Operations:** Threat Detection, Incident Response, Log Analysis
+- **Security Tools:** SIEM, EDR fundamentals, Network Monitoring
+- **Foundations:** Vulnerability Assessments, Network Security, Access Control
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💬 Let's Connect
+- 💼 [LinkedIn](https://linkedin.com//in/qaqamba-phangela-24bb332b1/)
+- 📧 [Email](mailto:Qphangela@gmail.com)
+
