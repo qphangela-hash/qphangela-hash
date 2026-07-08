@@ -9,7 +9,7 @@ I am a Durban-based professional transitioning from Customer Service into Cybers
 
 ### 🚀 Home Lab & Future Roadmap
 - [x] Configured a personal virtualization lab using **VirtualBox** and **Kali Linux**.
-- [ ] Utilize Kali Linux tools (Nmap, Wireshark) to perform vulnerability assessment simulations.
+- [x] Utilize Kali Linux tools (Nmap, Wireshark) to perform vulnerability assessment simulations.
 - [ ] Build a custom SIEM dashboard using Wazuh or Elastic Security to monitor lab traffic.
 - [ ] Practice practical threat hunting and log analysis on Let's Defend / Blue Team Labs Online.
 - [ ] Study towards attaining the CompTIA Security+ certification.
